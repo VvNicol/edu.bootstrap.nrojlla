@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.pink{
+	background-color: pink;
+}
+.orange{
+	background-color: orange;
+	height: 200px;
+}
+.rojo{
+	background-color: firebrick;
+	color: firebrick;
+	font-size: 15pt;
+}
